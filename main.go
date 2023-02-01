@@ -1,4 +1,4 @@
-package blochchairSDK
+package blockchairSDK
 
 import (
 	"encoding/json"

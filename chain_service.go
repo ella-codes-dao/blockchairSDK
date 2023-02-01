@@ -1,4 +1,4 @@
-package blochchairSDK
+package blockchairSDK
 
 type ChainService struct {
 	chain  string
